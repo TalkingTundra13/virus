@@ -1,3 +1,1 @@
-# virus
-
-Este github es solamente para Seii.
+# NO ME HAGO CARGO DE NINGÚN DAÑO EN CUALQUIER EQUIPO
