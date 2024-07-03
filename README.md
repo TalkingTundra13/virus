@@ -12,7 +12,7 @@ VIRUS:
 [NoEscape]([url](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0QwZlJiMHMzRXlyRmNNRDUwelpYaXhfNlg5UXxBQ3Jtc0ttZE5CbHhRRjZzUzZUTUc2TktZU1BiR1NLbjlWbEszemtyMzEzM1oycmdoYjY4LUlhcldEZUM1bUxGUjNxNENYeWtrX3pFbFd1SDF2U0pyZXVEeE1KcTNhdHdnQWpxdG93QzAtcUlqMHdVb1o0R1VWaw&q=https%3A%2F%2Fgithub.com%2FEndermanch%2FMalwareDatabase%2Fraw%2Fmaster%2FNoEscape.zip&v=4oATWyMMH4A)) || [Video]([url](https://drive.google.com/file/d/1f6JBWGrR3aLKmSr9P9MGn2-BVPrBRh3k/view?usp=sharing)) (ps: mysubsarethebest)
 
 PÁGINAS CON VIRUSES:
-https://mgen.fast-dl.cc/
+[https://mgen.fast-dl.cc/](https://web.archive.org/web/20230702234824fw_/https://mgen.fast-dl.cc/malware.html)
 
 
 ARCHIVOS ESENCIALES PARA LOS VIRUSES:
